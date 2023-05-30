@@ -37,3 +37,10 @@
 .my-drawing:hover {
   transform: scale(1.054) rotate(15deg);
 }
+.adr {
+  text-align: center;
+  text-size-adjust: ;
+  margin-top: 10px;
+  padding: 10px;
+  color: blue;
+}
