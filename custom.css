@@ -45,7 +45,7 @@
   padding: 10px;
   color: blue;
 }
-.main-area {
+.row {
   background: url(images/banner-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center top;
