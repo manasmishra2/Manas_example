@@ -1,4 +1,10 @@
-.my-bg-photo {
+.main-area {
+  background: url(images/banner-bg.jpg) no-repeat;
+  background-size: cover;
+  background-position: center top;
+  position: relative;
+}
+  .my-bg-photo {
   background: url('images/banner-ind.jpg') no-repeat;
   background-size: cover;
   background-position: center center;
