@@ -25,6 +25,7 @@
 
 .my-custom-container {
   max-width: 100%;
+  padding: 20px;
 }
 
 .accordion .btn-link:focus {
